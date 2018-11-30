@@ -1,0 +1,48 @@
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csprojResolveAssemblyReference.cache
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Giris_paneli.resources
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.Cache
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
+c:\users\belgelerim\documents\visual studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Ana_panel.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.FormTeknisyen.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Müsteri.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.güncelle.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Arıza_Kaydı.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Musteri_Listesi.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Ürünler.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Ürün_Listele.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Kayıt_Listesi.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Cihaz_Marka_Düzenle.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Bilgi.resources
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.manifest
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.application
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe.manifest
+C:\Users\Belgelerim\Documents\Visual Studio 2013\Projects\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.application
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik Servis.pdb
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\bin\Debug\Teknik Servis.exe.manifest
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\bin\Debug\Teknik Servis.application
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik Servis.csprojResolveAssemblyReference.cache
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Arıza_Kaydı.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Bilgi.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Cihaz_Marka_Düzenle.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Giris_paneli.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Ana_panel.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.FormTeknisyen.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.güncelle.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Kayıt_Listesi.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Musteri_Listesi.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Müsteri.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Ürünler.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik_Servis.Ürün_Listele.resources
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.Cache
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik Servis.exe.manifest
+C:\Users\Belgelerim\Desktop\16541092_M.Akif_BİLİCİ\Proje Kodları\Teknik Servis\obj\Debug\Teknik Servis.application

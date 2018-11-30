@@ -1,0 +1,6 @@
+1-) Yükleme iþlemi program files dosyasýna gerçekleþtirilir.Programýn kýsayolu masaüstünde bulunur.
+2-) Ýlk kullanýcý ismi: Akif , þifre: 1234 tür.
+3-) Her projenin çalýþmasý için bu projenin de Microsoft SQL Server a ihtiyacý vardýr.
+4-) Serverýn ismi '.' , veritabaný ismi " AnaPanel.mdf " dir.
+5-) Veritabaný proje kodlarý klasöründe bulunmaktadýr.
+Muhammed Akif Bilici
